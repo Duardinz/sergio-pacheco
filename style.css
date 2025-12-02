@@ -60,7 +60,6 @@ header.scrolled {
   justify-content: space-between;
   align-items: center;
   padding: 15px;
-  gap: 250px;
 }
 
 .navbar .nav-link {
@@ -323,4 +322,5 @@ footer {
 
 .footer p {
   font-weight: 500;
+
 }
